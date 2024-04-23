@@ -10,7 +10,7 @@ storage/exports
 storage/imports
 !storage/documents/DOCUMENTS.md
 logs/server.log
-*.db
+
 *.db-journal
 storage/lancedb
 public/
